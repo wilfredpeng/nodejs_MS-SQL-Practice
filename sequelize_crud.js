@@ -1,6 +1,6 @@
 var Sequelize = require('sequelize');
 var userName = 'sa';
-var password = 'Paofan@9783'; // update me
+var password = '******'; // update me
 var hostName = 'localhost';
 var sampleDbName = 'SampleDB';
 
