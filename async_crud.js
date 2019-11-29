@@ -10,7 +10,7 @@ var config = {
         type: 'default',
         options: {
             userName: 'sa', // update me
-            password: 'Paofan@9783' // update me
+            password: '******' // update me
         }
     },
     options: {
